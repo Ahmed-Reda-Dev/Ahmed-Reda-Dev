@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-reda0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-reda0" /> </p>
 
-- 🔭 I’m currently working on [WhatsApp clone](https://github.com/Ahmed-Reda0/whats-U-whats-app-clone-)
-
 - 🌱 I’m currently learning **MVVM , MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Reda0/](https://github.com/Ahmed-Reda0/)
