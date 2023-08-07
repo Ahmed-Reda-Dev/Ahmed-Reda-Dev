@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Reda</h1>
 <h3 align="center">Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-reda0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-reda0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Reda-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Reda-Dev" /> </p>
 
 - 🌱 I’m currently learning **MVVM , MVC**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Dart , Flutter**
 
-- 📫 How to reach me **ahmedreda02468@gmail.com**
+- 📫 How to reach me **dev.ahmed.reda.ar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
