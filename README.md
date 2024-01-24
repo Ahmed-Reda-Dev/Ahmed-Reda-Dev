@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-reda0&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Reda-Dev" /> </p>
 
-- 🌱 I’m currently learning **CI/CDD**
+- 🌱 I’m currently learning **CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Reda-Dev/](https://github.com/Ahmed-Reda-Dev/)
 
