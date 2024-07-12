@@ -95,7 +95,7 @@
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats-lac-six-94.vercel.app/api?username=Ahmed-Reda-Dev&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats-one-eta-59.vercel.app/api?username=Ahmed-Reda-Dev&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats-lac-six-94.vercel.app/api/top-langs/?username=Ahmed-Reda-Dev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
