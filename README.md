@@ -26,8 +26,7 @@
 
 
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ahmed-Reda-Dev&style=flat&color=blue"/> •   
-  <a href="https://user-badge.committers.top/india_private/Ahmed-Reda-Dev"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> •
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ahmed-Reda-Dev&style=flat&color=blue"/> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Ahmed-Reda-Dev?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/Ahmed-Reda-Dev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
   <a href="https://github.com/sponsors/Ahmed-Reda-Dev"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
@@ -139,7 +138,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@dev_ahmed_reda/426ced96-7f33-4661-b576-ac08803675ee.svg" />
 
 <br>
 <br>
